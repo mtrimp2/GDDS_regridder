@@ -1,0 +1,1 @@
+MERRA2_400.tavg1_2d_slv_Nx.20200101.nc4
