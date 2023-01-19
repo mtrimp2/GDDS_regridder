@@ -1,0 +1,8 @@
+name: lears
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cdo==1.9.10
+  - python=3.8
+prefix: /home/mtrimpin/miniconda3/envs/lears_env

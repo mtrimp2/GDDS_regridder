@@ -1,0 +1,12 @@
+name: tea
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - netcdf4==1.5.7
+  - xesmf==0.6.0
+  - numpy==1.20.3
+  - cdo==1.9.10
+  - xarray==0.19.0
+  - nccmp==1.9.1.0
+prefix: /home/mtrimpin/miniconda3/envs/tea_env
